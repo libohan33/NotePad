@@ -146,11 +146,11 @@ String dateTime = format.format(date);
 
 
 
-![](NotePad_new-master/QQ截图20241129012118.png)
+![](./NotePad_new-master/QQ截图20241129012118.png)
 
 修改第一条笔记：
 
-![](NotePad_new-master/QQ截图20241129012305.png)
+![](./NotePad_new-master/QQ截图20241129012305.png)
 
 ## 2.基础功能：添加笔记查询功能
 
@@ -294,11 +294,11 @@ public class NoteSearch extends ListActivity implements SearchView.OnQueryTextLi
 
 点击搜索按钮：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129013605.png)
+![](./NotePad_new-master/QQ截图20241129013605.png)
 
 输入相关词Note1:
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129013717.png)
+![](./NotePad_new-master./QQ截图20241129013717.png)
 
 
 
@@ -504,15 +504,15 @@ public class OutputText extends Activity {
 
 点击笔记，进入到编辑页面，点击右上角导出按钮：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129014906.png)
+![](./NotePad_new-master/QQ截图20241129014906.png)
 
 编辑导出的名字：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129014951.png)
+![](./NotePad_new-master/QQ截图20241129014951.png)
 
 点击导出：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129015036.png)
+![](./NotePad_new-master/QQ截图20241129015036.png)
 
 ## 4.拓展功能：笔记排序
 
@@ -587,25 +587,25 @@ private int[] viewIDs = { android.R.id.text1 , R.id.text1_time };
 
 这是未排序的页面：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129015708.png)
+![](./NotePad_new-master/QQ截图20241129015708.png)
 
 点击右上角的排序按钮：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129015913.png)
+![](./NotePad_new-master/QQ截图20241129015913.png)
 
 我们修改一下Note3:
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129020003.png)
+![](./NotePad_new-master/QQ截图20241129020003.png)
 
 修改后：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129020032.png)
+![](./NotePad_new-master/QQ截图20241129020032.png)
 
 点击按创建时间排序：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129020124.png)
+![](./NotePad_new-master/QQ截图20241129020124.png)
 
 点击按修改时间排序：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129020159.png)
+![](./NotePad_new-master/QQ截图20241129020159.png)
 
