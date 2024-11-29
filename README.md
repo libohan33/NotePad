@@ -140,7 +140,7 @@ String dateTime = format.format(date);
 
 运行效果：
 
-![](NotePad_new-master/QQ截图20241129011919.png)
+![](./NotePad_new-master/QQ截图20241129011919.png)
 
 再添加一条笔记：
 
