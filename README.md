@@ -146,11 +146,11 @@ String dateTime = format.format(date);
 
 
 
-![](NotePad_new-master\QQ截图20241129012118.png)
+![](NotePad_new-master/QQ截图20241129012118.png)
 
 修改第一条笔记：
 
-![](D:\test\android\NotePad_new-master\QQ截图20241129012305.png)
+![](NotePad_new-master/QQ截图20241129012305.png)
 
 ## 2.基础功能：添加笔记查询功能
 
