@@ -140,7 +140,7 @@ String dateTime = format.format(date);
 
 运行效果：
 
-![Alt Text](D:\test\android\NotePad_new-master\QQ截图20241129011919.png)
+![Alt Text](android\NotePad_new-master\QQ截图20241129011919.png)
 
 再添加一条笔记：
 
