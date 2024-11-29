@@ -1,0 +1,4 @@
+#Thu Nov 28 14:54:57 CST 2024
+base.0=D\:\\test\\android\\NotePad_new-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
